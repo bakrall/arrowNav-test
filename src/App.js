@@ -6,11 +6,6 @@ import {
   FocusableGroup
 } from '@arrow-navigation/react'
 
-// initArrowNavigation({preventScroll: true,
-//   disableWebListeners: false, 
-//   initialFocusElement: 'btn-1'
-// })
-
 function App() {
   return (
     <div className="App">
